@@ -52,7 +52,14 @@ keyboard.modules.append(encoder_handler)
 
 # keys:
 keyboard.keymap = [
-    [KC.A, KC.B, KC.C, KC.D, KC.E, KC.F]
+    [
+        KC.LGUI(KC.D),      # show desktop
+        KC.LGUI(KC.TAB),    # app switcher
+        KC.LGUI(KC.L),      # lock screen
+        KC.LGUI(KC.E),      # open windows explorer 
+        KC.LCTL(KC.C),      # copy
+        KC.LCTL(KC.V),      # paste
+    ]
 ]
 
 # blue when turned on
