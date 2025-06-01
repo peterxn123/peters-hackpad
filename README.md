@@ -6,6 +6,17 @@ Hi! This is my hackpad created as part of Hack Club's hackpad YSWS program - hac
 
 To be honest, this was one of my first times using Fusion and my first ever time using KiCad! I wanted to make something with a clean slanted design for good ergonomic input, 6 keys, RGB neopixels for cool backlighting and a rotary encoder for volume control.
 
+BOM:
+
+- 1x Xiao RP2040
+- 6x Cherry MX Key Switches
+- 6x DSA Keycaps
+- 4x M3x16 SHCS bolts
+- 2x WS2812B LEDs
+- 1x Case - 2 3D printed parts
+- 1x custom PCB
+
+
 Schematic:
 
 ![image](https://github.com/user-attachments/assets/17e973e9-1b11-469a-b42e-6906c53aeaf7)
