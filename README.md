@@ -12,7 +12,7 @@ BOM:
 - 6x Cherry MX Key Switches
 - 6x DSA Keycaps
 - 4x M3x16 SHCS bolts
-- 2x WS2812B LEDs
+- 2x SK6812 mini LEDs
 - 1x Case - 2 3D printed parts
 - 1x custom PCB
 
