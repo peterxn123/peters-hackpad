@@ -1,5 +1,9 @@
 # peters-hackpad
 
+Physical build:
+
+![IMG_7084](https://github.com/user-attachments/assets/eb4b2fcd-96a5-4f89-8dc6-d049c171ad9a)
+
 ![image](https://github.com/user-attachments/assets/2f71fd15-f75e-4d5f-b0a5-904f7c103a5b)
 
 Hi! This is my hackpad created as part of Hack Club's hackpad YSWS program - hackpad.hackclub.com
